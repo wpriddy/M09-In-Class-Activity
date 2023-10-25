@@ -1,9 +1,10 @@
-from distutils.core import setup
+from setuptools import setup
 
 setup(name='M09 In Class Activity',
       version='1.0',
       description='Python Distribution Utilities',
       author='Wyatt Priddy',
+      url='https://github.com/wpriddy/M09-In-Class-Activity',
       author_email='wpriddy@tds8tv.edu',
-      packages=['random'],
+      license='MIT'
      )
